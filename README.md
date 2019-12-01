@@ -3,7 +3,12 @@
 [Visual Studio Codeで競プロ環境構築(導入編)](https://qiita.com/AokabiC/items/e9312856f588dd9303ed)  
 上記のサイトを参考にして環境を構築  
 自分が使いやすいようにコマンドや設定ファイルのパスを変更している  
-publicにしているから特に記述しない
+publicにしているから特に記述しない  
+* 自分の環境
+  * windows
+  * ubuntu in WSL
+  * VScode
+
 
 # ファイル構成
 CQ：コンテスト用のディレクトリ  
