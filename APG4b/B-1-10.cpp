@@ -7,12 +7,14 @@ int main() {
   int i = 0, j = 0;
  
   // ここにプログラムを追記
+  cout << "A:";
   while(i < A){
       cout << "]";
       i++;
   }
   cout << endl;
 
+  cout << "B:";
   while(j < B){
       cout << "]";
       j++;
