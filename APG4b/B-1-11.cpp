@@ -4,9 +4,9 @@ using namespace std;
 int main() {
   int N, A;
   int B;
-  int x = A;
   string op;
   cin >> N >> A;
+  int x = A;
  
   for (int i = 0; i < N;i++){
       cin >> op >> B;
