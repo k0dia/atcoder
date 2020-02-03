@@ -20,6 +20,7 @@ int main() {
           x /= B;
       } else {
           cout << "error" << endl;
+          break;
       }
       cout << i+1 << ":" << x << endl;
   }
