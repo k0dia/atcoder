@@ -21,6 +21,6 @@ int main() {
       } else {
           cout << "error" << endl;
       }
-      cout << i << ":" << x << endl;
+      cout << i+1 << ":" << x << endl;
   }
 }
