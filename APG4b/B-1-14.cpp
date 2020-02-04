@@ -7,8 +7,8 @@ int main() {
   int maxNum;
   int minNum;
 
-  maxNum = max(A,B,C);
-  minNum = min(A,B,C);
+  maxNum = max(max(A,B),C);
+  minNum = min(min(A,B),C);
 
   cout << maxNum - minNum << endl;
 }
